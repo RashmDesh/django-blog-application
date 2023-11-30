@@ -6,7 +6,7 @@
 <h1>Registeation page :</h1> <h3>Accept name, eamil, phone and passowrd and store data into database.And whenever user is register mail get send to registered mail id.</h3><br>
 <h1>Login page :</h1> <h3> Accept meail and passowrd and verify password with database. </h3><br> 
 <h1>Blog page :</h1> <h3> Show all blogs </h3><br> 
-<h1>Add Blog page :</h1> <h3> Login user can add new blog and data store in databse. </h3><br> 
+<h1>Add Blog page :</h1> <h3> Login user can add new blog and data store in database. </h3><br> 
 <h1>Update passowrd:</h1><h3> For update password user has to login first. Once user logied in user can change passowrd by clicking on update password option.</h3><br>
 
 # Rest API
